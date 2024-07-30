@@ -1,0 +1,3 @@
+4ds6_103.pdb  UGUGUGC
+6xrz_24.pdb  UAUACAG
+2g1w_8.pdb  CUAACAG

@@ -1,0 +1,4 @@
+2il91_17.pdb  UUG
+2tpk_8.pdb  CAG
+3t4b_25.pdb  GUC
+4pqv_22.pdb  GUC

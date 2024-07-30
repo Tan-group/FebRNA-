@@ -1,0 +1,3 @@
+4rzd_20.pdb  CAACUUAG
+2m8k_12.pdb  UCUUUUUA
+7ljy_22.pdb  CAAAAAAA

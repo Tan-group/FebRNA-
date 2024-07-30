@@ -1,0 +1,3 @@
+6wlu_1.pdb  GGUAACG
+2il9(3)_1.pdb  AGGCCGC
+6wlt_1.pdb  GGUAACG

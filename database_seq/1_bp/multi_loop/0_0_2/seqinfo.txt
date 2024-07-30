@@ -1,0 +1,2 @@
+2OIU_Q_5.pdb  CGCGCAGG
+2OIU_P_5.pdb  CGCGCAGG

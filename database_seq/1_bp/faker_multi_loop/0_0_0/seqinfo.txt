@@ -1,0 +1,8 @@
+4XWF_A_1.pdb  GCUA
+6cc3_1.pdb  AUAU
+7PTK_B_1.pdb  GCAU
+7JRT_A_1.pdb  GCCG
+8BU8_A_1.pdb  GCGC
+7JRR_A_1.pdb  GCCG
+7QDU_Q_1.pdb  GCCG
+7PTS_A_1.pdb  GCAU

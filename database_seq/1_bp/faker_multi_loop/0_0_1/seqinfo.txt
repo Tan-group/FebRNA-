@@ -1,0 +1,3 @@
+7dd4_1.pdb  GCCGU
+6WZS_B_1.pdb  GCGCG
+1k2g_1.pdb  CGCGG

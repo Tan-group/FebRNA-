@@ -1,0 +1,4 @@
+2h0w_28.pdb  GG
+4p5j_22.pdb  GC
+6r47_16.pdb  GU
+2krl_26.pdb  CU

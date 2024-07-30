@@ -1,0 +1,4 @@
+4l81_36.pdb  CAACGAAGU
+1kpd_8.pdb  CACUCAAAG
+1l2x_8.pdb  GGAACAAAC
+5nwq_8.pdb  GACGAGGUG

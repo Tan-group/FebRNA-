@@ -1,0 +1,6 @@
+1rnk_8.pdb  CAGU
+6wln_69.pdb  GGAA
+3vrs_12.pdb  GAUG
+7mky_20.pdb  ACAG
+6wlo_70.pdb  GGAA
+2miy_16.pdb  CCAA

@@ -1,0 +1,2 @@
+7elp_1.pdb  GCCCGC
+2l1f(1)_1.pdb  GCAACG

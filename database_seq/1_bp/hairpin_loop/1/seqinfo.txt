@@ -1,0 +1,15 @@
+8HBA_A_5.pdb  UGA
+6G7Z_B_9.pdb  UCA
+6UFG_A_17.pdb  CAG
+1nbs1_11.pdb  CUG
+3OWZ_B_5.pdb  GUC
+3F2X_X_15.pdb  UAG
+6CK4_A_18.pdb  AAU
+6GYV_A_43.pdb  UCA
+3BWP_A_69.pdb  CAG
+5DUN_A_8.pdb  GGC
+1nbs_27.pdb  CUG
+7MLW_F_16.pdb  GUC
+7R6N_A_81.pdb  AUU
+6CK4_C_19.pdb  AUU
+4OJI_A_7.pdb  GCC

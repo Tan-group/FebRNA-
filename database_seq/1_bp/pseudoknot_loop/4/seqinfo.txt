@@ -1,0 +1,7 @@
+7lyj_20.pdb  AUACAG
+6ues_38.pdb  CAAGCG
+1x8w_64.pdb  CAAAUU
+6wlq_36.pdb  CAAGCG
+6wlr_36.pdb  CAAGCG
+2il93_16.pdb  CAAUAU
+6mj01_28.pdb  GUUCUC

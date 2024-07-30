@@ -1,0 +1,7 @@
+6r48_16.pdb  CGGUG
+5kmz_12.pdb  CUUCA
+7k17_14.pdb  GCAAG
+6p2h_14.pdb  CAGAG
+3suh_20.pdb  CGCAU
+4qlm_26.pdb  GUCCG
+7k16_15.pdb  CCCAC

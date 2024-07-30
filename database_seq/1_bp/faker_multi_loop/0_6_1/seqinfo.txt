@@ -1,0 +1,2 @@
+4pqv_1.pdb  CGUGAGGCCGU
+4FRN_A_1.pdb  GCAAAGUAGCA

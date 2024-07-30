@@ -1,0 +1,2 @@
+6p2h_1.pdb  GUACCGUCACC
+6ol3_5.pdb  UAUCCGUCGAA
