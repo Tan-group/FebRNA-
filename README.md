@@ -40,4 +40,4 @@ If you have any questions about FebRNA1, please contact us by the email: zjtan@w
 
 References:
 
-[1] Automoated and efficient fragment-ensemble-based building for large RNA 3D structures.(to be submitted)
+[1] Automated and efficient fragment-ensemble-based building for large RNA 3D structures.(to be submitted)
